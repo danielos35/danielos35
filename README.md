@@ -3,7 +3,8 @@
 
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielos35&show_icons=true&locale=en&layout=compact" alt="danielos35" /></p>
+<br/>
 
-<h3 align="left">Statistics:</h3>
+<h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danielos35&count_private=true" alt="danielos35" /></p>
 
